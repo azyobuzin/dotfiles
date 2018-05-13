@@ -1,0 +1,14 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.renderIndentGuides": false,
+    "editor.codeLens": false,
+    "explorer.openEditors.visible": 0,
+    "files.associations": {
+        "*.props": "xml"
+    },
+    "workbench.iconTheme": "vs-nomo-dark",
+    "files.autoGuessEncoding": true,
+    "files.hotExit": "off",
+    "editor.minimap.enabled": false,
+    "files.autoSave": "off",
+}
