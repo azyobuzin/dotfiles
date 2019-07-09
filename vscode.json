@@ -12,4 +12,5 @@
     "editor.minimap.enabled": false,
     "files.autoSave": "off",
     "breadcrumbs.enabled": true,
+    "FSharp.showExplorerOnStartup": false,
 }
